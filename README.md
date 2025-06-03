@@ -18,8 +18,8 @@ A aplicação calcula:
 
 1. Clona este repositório:
    ```bash
-   git clone https://github.com/teuusuario/taxa.git
-   cd taxa
+   git clone https://github.com/teuusuario/fiv.git
+   cd fiv
 
 2. Instala as dependências:
    ```bash
@@ -32,11 +32,11 @@ A aplicação calcula:
 4. A app será aberta automaticamente no navegador: http://localhost:8501
 
 ## 📁 Ficheiros incluídos
-calculadora_ovulos.py – script principal da aplicação em Streamlit
+taxa.py – script principal da aplicação em Streamlit
 
 README.md – este ficheiro
 
-research.md - ficheiro com alguma pesquisa onde indica quais as taxas de sucesso conseguidas em estudos controlados. As taxas descritas devem ser utilizadas para os cálculos na aplicação.
+research.pdf - ficheiro com alguma pesquisa onde indica quais as taxas de sucesso conseguidas em estudos controlados. As taxas descritas devem ser utilizadas para os cálculos na aplicação.
 
 ## 📊 Fórmula utilizada
 A fórmula usada é:
@@ -49,12 +49,12 @@ p = taxa de sucesso por óvulo
 
 P = probabilidade desejada de ter pelo menos um bebé
 
-Nota: Verifica as percentagens de acordo com os estudos realizados no documento research.md
+Nota: Verifica as percentagens de acordo com os estudos realizados no documento research.pdf
 
 ## ⚠️ Aviso
 Esta calculadora é uma ferramenta estatística simplificada e não substitui aconselhamento médico. As taxas reais de sucesso variam consoante a clínica, idade da mulher e outros fatores clínicos. 
 
-
+**********************************************************************************
 
 Feita com ❤️ para apoiar decisões informadas no planeamento da fertilidade.
 
